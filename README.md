@@ -1,5 +1,3 @@
-# DecodeLabs_Data_Analytics_Internship_Projects
-A collection of 4 Data Analytics projects completed during my DecodeLabs internship, covering Data Cleaning, EDA, SQL Analysis, and Power BI Dashboard Development.
 # 📊 DecodeLabs Data Analytics Internship Projects
 
 ## 👩‍💻 About the Internship
@@ -149,3 +147,59 @@ Total Quantity = SUM(Order_table[Quantity])
 Total Orders = DISTINCTCOUNT(Order_table[OrderID])
 
 Average Order Value = DIVIDE([Total Sales], [Total Orders])
+```
+Tools
+Microsoft Power BI
+DAX
+Microsoft Excel
+Data Visualization
+Data Storytelling
+
+🔄 End-to-End Data Analytics Workflow
+
+The four projects represent a complete analytics workflow:
+
+Raw Data
+⬇️
+Data Cleaning & Preparation — Power Query
+⬇️
+Exploratory Data Analysis — Python
+⬇️
+SQL Data Analysis — PostgreSQL
+⬇️
+Dashboard & Visualization — Power BI
+⬇️
+Business Insights & Data-Driven Decisions
+
+🎓 Internship Learning Outcomes
+
+This internship helped me gain practical experience in working with real-world style datasets and applying different data analytics tools for different stages of the analytical process.
+
+I learned how to:
+
+Prepare and clean datasets
+Explore data using Python
+Perform SQL-based business analysis
+Build interactive dashboards
+Create meaningful visualizations
+Identify business insights
+Document projects professionally
+Present analytical findings clearly
+👩‍💻 Author
+Akanksha Ganesh Ghorpade
+
+🎓 Information Technology Engineering Student
+
+📊 Aspiring Data Analyst
+
+💻 Skills: Python | SQL | Excel | Power Query | Power BI | DAX | Data Analytics
+
+🐙 GitHub: AkankshaGhorpade07
+
+💼 LinkedIn: Akanksha Ghorpade
+
+⭐ Acknowledgement
+
+These projects were completed as part of my Data Analytics Internship at DecodeLabs.
+
+Thank you for visiting this repository! 😊
