@@ -155,21 +155,7 @@ Microsoft Excel
 Data Visualization
 Data Storytelling
 
-🔄 End-to-End Data Analytics Workflow
-
-The four projects represent a complete analytics workflow:
-
-Raw Data
-⬇️
-Data Cleaning & Preparation — Power Query
-⬇️
-Exploratory Data Analysis — Python
-⬇️
-SQL Data Analysis — PostgreSQL
-⬇️
-Dashboard & Visualization — Power BI
-⬇️
-Business Insights & Data-Driven Decisions
+View task 4 ./Task-4-E-Commerce-Sales-Power-BI-Dashboard/
 
 🎓 Internship Learning Outcomes
 
@@ -194,9 +180,9 @@ Akanksha Ganesh Ghorpade
 
 💻 Skills: Python | SQL | Excel | Power Query | Power BI | DAX | Data Analytics
 
-🐙 GitHub: AkankshaGhorpade07
+🐙 GitHub: https://github.com/AkankshaGhorpade07/
 
-💼 LinkedIn: Akanksha Ghorpade
+💼 LinkedIn: https://www.linkedin.com/in/akanksha-ghorpade-778343335/
 
 ⭐ Acknowledgement
 
