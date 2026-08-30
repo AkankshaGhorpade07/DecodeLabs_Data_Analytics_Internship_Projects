@@ -155,7 +155,7 @@ Microsoft Excel
 Data Visualization
 Data Storytelling
 
-View task 4 ./Task-4-E-Commerce-Sales-Power-BI-Dashboard/
+➡️ [View Task 4 — Power BI Dashboard](./Task-4-E-Commerce-Sales-Power-BI-Dashboard/)
 
 🎓 Internship Learning Outcomes
 
